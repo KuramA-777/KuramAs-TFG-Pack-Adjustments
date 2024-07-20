@@ -1,0 +1,2469 @@
+{
+  "favorites": [
+    {
+      "stack": "item:craftingstation:crafting_station"
+    },
+    {
+      "stack": "item:tfc:wood/planks/maple_workbench"
+    },
+    {
+      "stack": "item:gtceu:advanced_large_chemical_reactor"
+    },
+    {
+      "stack": "item:toms_storage:ts.storage_terminal"
+    },
+    {
+      "stack": "item:toms_storage:ts.crafting_terminal"
+    },
+    {
+      "stack": "item:toms_storage:ts.inventory_cable_connector"
+    },
+    {
+      "stack": "item:toms_storage:ts.inventory_hopper_basic",
+      "recipe": "toms_storage:inventory_hopper_basic"
+    },
+    {
+      "stack": "item:toms_storage:ts.inventory_cable"
+    },
+    {
+      "stack": "item:functionalstorage:storage_controller"
+    },
+    {
+      "stack": "item:functionalstorage:controller_extension"
+    },
+    {
+      "stack": "item:minecraft:bucket"
+    },
+    {
+      "stack": "item:functionalstorage:compacting_drawer"
+    },
+    {
+      "stack": "item:functionalstorage:simple_compacting_drawer"
+    },
+    {
+      "stack": "item:waystones:waystone"
+    },
+    {
+      "stack": "item:waystones:warp_stone{Damage:0}"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "factory_blocks:factory",
+        "amount": 32
+      },
+      "recipe": "factory_blocks:factory"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "xtonesreworked:xtone_tile",
+        "amount": 8
+      },
+      "recipe": "xtonesreworked:xtone_tile"
+    },
+    {
+      "stack": "item:xtonesreworked:flat_lamp"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "xtonesreworked:korp_block_0",
+        "amount": 8
+      },
+      "recipe": "xtonesreworked:korp_block_0"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "xtonesreworked:bitt_block_0",
+        "amount": 8
+      },
+      "recipe": "xtonesreworked:bitt_block_0"
+    },
+    {
+      "stack": "item:gtceu:red_steel_plate",
+      "recipe": "gtceu:bender/bend_red_steel_to_plate"
+    },
+    {
+      "stack": "item:gtceu:blue_steel_plate",
+      "recipe": "gtceu:bender/bend_blue_steel_to_plate"
+    },
+    {
+      "stack": "item:gtceu:bronze_plate"
+    },
+    {
+      "stack": "item:gtceu:bronze_gear"
+    },
+    {
+      "stack": "item:gtceu:glass_tube",
+      "recipe": "jei:/tfg/gtceu/glassworking/glass_tube"
+    },
+    {
+      "stack": "item:gtceu:alternator"
+    },
+    {
+      "stack": "item:tesseract:tesseract"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "gtceu:rare_earth_dust",
+        "chance": 0.3333
+      },
+      "recipe": "gtceu:thermal_centrifuge/centrifuge_bastnasite_crushed_ore_to_refined_ore"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "thoriumreactors:industrial_block",
+        "amount": 16
+      },
+      "recipe": "thoriumreactors:industrial_block"
+    },
+    {
+      "stack": "item:gtceu:greenhouse"
+    },
+    {
+      "stack": "item:firmalife:pumping_station"
+    },
+    {
+      "stack": "item:gtceu:raw_monazite"
+    },
+    {
+      "stack": "item:gtceu:deep_vein_mining_drill_rig"
+    },
+    {
+      "stack": "item:gtceu:tungsten_carbide_drill_head"
+    },
+    {
+      "stack": "item:gtceu:drilling_fluid_bucket"
+    },
+    {
+      "stack": "item:gtceu:tungsten_grinding_head"
+    },
+    {
+      "stack": "item:gtceu:sulfuric_acid_bucket"
+    },
+    {
+      "stack": "item:gtceu:rutile_dust"
+    },
+    {
+      "stack": "item:gtceu:iv_large_miner"
+    },
+    {
+      "stack": "item:gtceu:terminal"
+    },
+    {
+      "stack": "item:create:andesite_alloy"
+    },
+    {
+      "stack": "item:minecraft:glowstone_dust"
+    },
+    {
+      "stack": "item:createdeco:iron_support_wedge"
+    },
+    {
+      "stack": "item:createdeco:iron_catwalk_railing"
+    },
+    {
+      "stack": "item:createdeco:iron_catwalk"
+    },
+    {
+      "stack": "item:createdeco:industrial_iron_ingot",
+      "recipe": "jei:/createdeco/compacting/industrial_iron_ingot"
+    },
+    {
+      "stack": "item:createdeco:industrial_iron_sheet",
+      "recipe": "jei:/createdeco/pressing/industrial_iron_sheet"
+    },
+    {
+      "stack": "item:createdeco:iron_sheet_metal"
+    },
+    {
+      "stack": "item:createdeco:andesite_window"
+    },
+    {
+      "stack": "item:minecraft:andesite",
+      "recipe": "chisel:andesite"
+    },
+    {
+      "stack": "item:tfc:rock/raw/andesite"
+    },
+    {
+      "stack": "item:minecraft:smooth_stone",
+      "recipe": "chisel:stone"
+    },
+    {
+      "stack": "item:createdeco:andesite_sheet"
+    },
+    {
+      "stack": "item:gtceu:wrought_iron_ingot"
+    },
+    {
+      "stack": "item:ae2:singularity"
+    },
+    {
+      "stack": "item:tfc:stone/javelin/igneous_extrusive{Damage:0}"
+    },
+    {
+      "stack": "item:tfc:wood/barrel/acacia"
+    },
+    {
+      "stack": "item:gtceu:bronze_saw{DisallowContainerItem:0b,GT.Behaviours:{HarvestIce:1b},GT.Tool:{Damage:0,MaxDamage:1151},HideFlags:2}",
+      "recipe": "gtceu:shaped/saw_bronze"
+    },
+    {
+      "stack": "item:gtceu:bronze_pickaxe{DisallowContainerItem:0b,GT.Behaviours:{},GT.Tool:{Damage:0,HarvestLevel:2,MaxDamage:1151,ToolSpeed:7.0f},HideFlags:2}",
+      "recipe": "gtceu:shaped/pickaxe_bronze"
+    },
+    {
+      "stack": "item:sophisticatedbackpacks:backpack",
+      "recipe": "tfg:sophisticated_backpacks/shaped/backpack"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "gtceu:tetrahedrite_dust",
+        "amount": 44
+      }
+    },
+    {
+      "stack": "item:tfc:crucible",
+      "recipe": "tfg:smelting/crucible"
+    },
+    {
+      "stack": "item:gtceu:bronze_double_ingot"
+    },
+    {
+      "stack": "item:gtceu:steam_oven",
+      "recipe": "gtceu:shaped/steam_oven"
+    },
+    {
+      "stack": "item:gtceu:wrought_iron_double_ingot",
+      "recipe": "tfg:bender/wrought_iron_double_ingot"
+    },
+    {
+      "stack": "item:gtceu:coke_oven"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:charcoal",
+        "amount": 32
+      }
+    },
+    {
+      "stack": "item:gtceu:treated_wood_plate",
+      "recipe": "gtceu:compressor/compress_plate_dust_treated_wood_"
+    },
+    {
+      "stack": "item:create:mechanical_press"
+    },
+    {
+      "stack": "item:create:depot"
+    },
+    {
+      "stack": "item:tfc:blast_furnace"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "createdeco:dusk_bricks",
+        "amount": 4
+      },
+      "recipe": "createdeco:crafting/dusk_bricks"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "createdeco:dusk_brick_slab",
+        "amount": 6
+      },
+      "recipe": "createdeco:dusk_brick_slab"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "createdeco:dusk_brick_stairs",
+        "amount": 4
+      },
+      "recipe": "createdeco:dusk_brick_stairs"
+    },
+    {
+      "stack": "item:gtceu:steel_drum"
+    },
+    {
+      "stack": "item:gtceu:steel_crate"
+    },
+    {
+      "stack": "item:tfc:metal/tuyere/wrought_iron{Damage:0}"
+    },
+    {
+      "stack": "item:tfc:ceramic/fire_ingot_mold",
+      "recipe": "tfg:smelting/fire_ingot_mold"
+    },
+    {
+      "stack": "item:create:crushing_wheel"
+    },
+    {
+      "stack": "item:gtceu:hp_steam_alloy_smelter",
+      "recipe": "gtceu:shaped/steam_alloy_smelter_steel"
+    },
+    {
+      "stack": "item:gtceu:lp_steam_solid_boiler",
+      "recipe": "gtceu:shaped/steam_boiler_coal_bronze"
+    },
+    {
+      "stack": "item:gtceu:bronze_brick_casing"
+    },
+    {
+      "stack": "item:gtceu:tin_alloy_small_fluid_pipe",
+      "recipe": "gtceu:shaped/small_tin_alloy_pipe"
+    },
+    {
+      "stack": "item:gtceu:steel_brick_casing"
+    },
+    {
+      "stack": "item:gtceu:hp_steam_furnace"
+    },
+    {
+      "stack": "item:minecraft:glass"
+    },
+    {
+      "stack": "item:tfc:silica_glass_batch"
+    },
+    {
+      "stack": "item:tfc:ceramic_blowpipe"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_blowpipe"
+    },
+    {
+      "stack": "item:tfc:gem_saw{Damage:0}",
+      "recipe": "tfc:crafting/gem_saw"
+    },
+    {
+      "stack": "item:gtceu:brass_ingot",
+      "recipe": "gtceu:smelting/dust_brass__demagnetize_from_dust"
+    },
+    {
+      "stack": "item:gtceu:steel_brick_casing",
+      "recipe": "gtceu:shaped/steel_bricks_hull"
+    },
+    {
+      "stack": "item:create:fluid_pipe"
+    },
+    {
+      "stack": "item:create:mechanical_pump",
+      "recipe": "create:crafting/kinetics/mechanical_pump"
+    },
+    {
+      "stack": "item:create:gearbox",
+      "recipe": "create:crafting/kinetics/gearbox"
+    },
+    {
+      "stack": "item:gtceu:steel_screwdriver{DisallowContainerItem:0b,GT.Behaviours:{},GT.Tool:{Damage:0,MaxDamage:3071},HideFlags:2}"
+    },
+    {
+      "stack": "item:tfc:metal/shears/steel{Damage:0}"
+    },
+    {
+      "stack": "item:gtceu:steel_ingot",
+      "recipe": "jei:/create/kjs/1q4keghnc1n4hbvztg9ncinjs"
+    },
+    {
+      "stack": "item:tfc:metal/ingot/high_carbon_steel"
+    },
+    {
+      "stack": "item:tfc:metal/ingot/pig_iron"
+    },
+    {
+      "stack": "item:gtceu:lv_fluid_solidifier",
+      "recipe": "gtceu:shaped/lv_fluid_solidifier"
+    },
+    {
+      "stack": "item:gtceu:lv_assembler",
+      "recipe": "gtceu:shaped/lv_assembler"
+    },
+    {
+      "stack": "item:minecraft:hopper",
+      "recipe": "gtceu:assembler/hopper_wrought_iron"
+    },
+    {
+      "stack": "item:gtceu:sticky_resin"
+    },
+    {
+      "stack": "item:tfc:wrought_iron_grill"
+    },
+    {
+      "stack": "item:tfc:wooden_bucket{fluid:{Amount:1000,FluidName:\"tfg:latex\"}}"
+    },
+    {
+      "stack": "item:gtceu:hp_steam_extractor"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "gtceu:ingot_casting_mold",
+        "chance": 0.0
+      }
+    },
+    {
+      "stack": "item:tfcgroomer:steel_grooming_station"
+    }
+  ],
+  "lookup_history": [
+    {
+      "type": "item",
+      "id": "minecraft:fire_charge",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "minecraft:gunpowder",
+      "amount": 12
+    },
+    "item:tfc:powder/sulfur",
+    {
+      "type": "item",
+      "id": "gtceu:raw_rubber_dust",
+      "amount": 36
+    },
+    "item:gtceu:hp_steam_extractor",
+    "item:gtceu:steel_brick_casing",
+    {
+      "type": "item",
+      "id": "minecraft:brick",
+      "amount": 16
+    },
+    "item:xtonesreworked:flat_lamp",
+    {
+      "type": "item",
+      "id": "tfc:wood/log/maple",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "tfc:stick_bundle",
+      "amount": 4
+    },
+    "item:tfcgroomer:steel_grooming_station",
+    {
+      "type": "item",
+      "id": "tfc:food/sugarcane",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "firmalife:rennet",
+      "amount": 6
+    },
+    "item:minecraft:bricks",
+    "item:tfc:rock/mossy_loose/diorite",
+    "item:tfc:rock/mossy_cobble/diorite",
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/quartzite",
+      "amount": 7
+    },
+    {
+      "type": "item",
+      "id": "tfc:mortar",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "gtceu:ingot_casting_mold",
+      "chance": 0.0
+    },
+    "item:gtceu:empty_mold",
+    {
+      "type": "item",
+      "id": "minecraft:clay_ball",
+      "amount": 15
+    },
+    {
+      "type": "item",
+      "id": "minecraft:glass",
+      "amount": 5
+    },
+    "item:minecraft:glass_pane",
+    "#item:forge:glass_panes",
+    "item:gtceu:alternator",
+    "item:gtceu:treated_wood_dust",
+    "item:gtceu:treated_wood_plate",
+    "item:minecraft:slime_ball",
+    {
+      "type": "item",
+      "id": "gtceu:sticky_resin",
+      "amount": 11
+    },
+    "item:gtceu:glass_tube",
+    "item:tfc:glue",
+    "item:gtceu:calcium_dust",
+    "item:minecraft:bone_meal",
+    "item:tfc:burlap_cloth",
+    "item:tfc:silk_cloth",
+    "item:minecraft:white_wool",
+    "item:tfc:wool_cloth",
+    "item:tfc:wool_yarn",
+    "item:minecraft:paper",
+    "item:tfc:large_raw_hide",
+    "item:tfc:large_soaked_hide",
+    "item:tfc:large_scraped_hide",
+    "item:tfc:large_prepared_hide",
+    "item:tfc:small_raw_hide",
+    "item:tfc:small_soaked_hide",
+    "item:tfc:small_scraped_hide",
+    "item:tfc:small_prepared_hide",
+    "item:minecraft:leather",
+    "item:tfc:medium_raw_hide",
+    "item:tfc:medium_soaked_hide",
+    "item:tfc:medium_scraped_hide",
+    "item:tfc:medium_prepared_hide",
+    "item:tfc:powder/lime",
+    {
+      "type": "fluid",
+      "id": "tfc:limewater",
+      "amount": 500
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:tannin",
+      "amount": 300
+    },
+    "item:firmalife:pineapple_leather",
+    {
+      "type": "fluid",
+      "id": "tfg:latex",
+      "amount": 1000
+    },
+    {
+      "type": "item",
+      "id": "gtceu:rubber_ingot",
+      "amount": 5
+    },
+    "item:gtceu:sulfur_dust",
+    {
+      "type": "item",
+      "id": "tfc:wood/lumber/maple",
+      "amount": 22
+    },
+    {
+      "type": "item",
+      "id": "tfc:stick_bunch",
+      "amount": 32
+    },
+    "item:tfc:wrought_iron_grill",
+    {
+      "type": "item",
+      "id": "gtceu:small_tetrahedrite_dust",
+      "amount": 12
+    },
+    {
+      "type": "item",
+      "id": "gtceu:tiny_tetrahedrite_dust",
+      "amount": 18
+    },
+    "item:gtceu:rich_raw_tin",
+    "item:gtceu:raw_cassiterite",
+    "item:gtceu:impure_sulfur_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_sulfur_ore",
+      "amount": 14
+    },
+    "item:tfc:ceramic/unfired_pot",
+    "item:tfc:ceramic/pot",
+    "item:firmalife:vat",
+    "item:minecraft:hopper",
+    "item:minecraft:hopper_minecart",
+    "item:toms_storage:ts.inventory_hopper_basic",
+    "item:treetap:tap",
+    {
+      "type": "item",
+      "id": "minecraft:copper_ingot",
+      "amount": 2
+    },
+    "item:create:wrench",
+    "#item:forge:string",
+    "item:create:goggles",
+    "item:create:belt_connector",
+    "item:tfc:sandpaper{Damage:0}",
+    "item:minecraft:bucket",
+    {
+      "type": "fluid",
+      "id": "tfg:weak_blue_steel",
+      "amount": 144
+    },
+    "item:tfc:metal/ingot/weak_blue_steel",
+    "item:tfc:metal/ingot/high_carbon_blue_steel",
+    {
+      "type": "fluid",
+      "id": "tfg:high_carbon_blue_steel",
+      "amount": 144
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:blue_steel",
+      "amount": 144
+    },
+    "item:gtceu:blue_steel_ingot",
+    "item:gtceu:blue_steel_plate",
+    "item:gtceu:lv_machine_casing",
+    "item:gtceu:lv_machine_hull",
+    "item:gtceu:lv_fluid_solidifier",
+    "item:gtceu:lv_assembler",
+    "item:tfc:metal/ingot/pig_iron",
+    {
+      "type": "fluid",
+      "id": "tfg:pig_iron",
+      "amount": 144
+    },
+    "item:tfc:metal/ingot/high_carbon_steel",
+    {
+      "type": "fluid",
+      "id": "gtceu:steel",
+      "amount": 144
+    },
+    "item:gtceu:steel_ingot",
+    "#item:forge:ingots/steel",
+    "item:gtceu:steel_plate",
+    "item:gtceu:hp_steam_furnace",
+    "item:tfc:metal/shears/wrought_iron{Damage:0}",
+    "item:gtceu:wrought_iron_knife_head",
+    "item:tfc:metal/shears/steel{Damage:0}",
+    "item:gtceu:potassium_feldspar_dust",
+    "item:gtceu:granite_red_dust",
+    "item:gtceu:red_granite",
+    "item:gtceu:hp_steam_rock_crusher",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_graphite_ore",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "gtceu:crushed_wulfenite_ore",
+      "amount": 64
+    },
+    "item:waystones:warp_stone{Damage:0}",
+    "item:gtceu:purified_diamond_ore",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_diamond_ore",
+      "amount": 59
+    },
+    {
+      "type": "item",
+      "id": "gtceu:crushed_stibnite_ore",
+      "amount": 46
+    },
+    {
+      "type": "item",
+      "id": "gtceu:crushed_goethite_ore",
+      "amount": 19
+    },
+    "item:gtceu:impure_powellite_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_powellite_ore",
+      "amount": 12
+    },
+    {
+      "type": "item",
+      "id": "gtceu:crushed_cobalt_ore",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "gtceu:crushed_pentlandite_ore",
+      "amount": 6
+    },
+    "item:gtceu:crushed_cobaltite_ore",
+    {
+      "type": "item",
+      "id": "tfc:ore/small_tetrahedrite",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "gtceu:tin_dust",
+      "amount": 40
+    },
+    {
+      "type": "item",
+      "id": "tfc:powder/cassiterite",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "gtceu:cassiterite_dust",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/wheat",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "minecraft:iron_ingot",
+      "amount": 13
+    },
+    {
+      "type": "item",
+      "id": "gtceu:crushed_hematite_ore",
+      "amount": 64
+    },
+    "item:create:fluid_pipe",
+    "item:gtceu:steel_screwdriver{DisallowContainerItem:0b,GT.Behaviours:{},GT.Tool:{Damage:0,MaxDamage:3071},HideFlags:2}",
+    "item:create:mechanical_pump",
+    "item:create:cogwheel",
+    "item:gtceu:steel_drum",
+    "item:tfc:wooden_bucket{fluid:{Amount:1000,FluidName:\"gtceu:creosote\"}}",
+    "item:gtceu:hp_steam_liquid_boiler",
+    {
+      "type": "fluid",
+      "id": "minecraft:water",
+      "amount": 16000
+    },
+    "item:create:large_cogwheel",
+    "item:create:gearbox",
+    "item:create:brass_casing",
+    "item:create:precision_mechanism",
+    "item:tfc:brass_mechanisms",
+    "item:minecraft:iron_nugget",
+    {
+      "type": "item",
+      "id": "gtceu:wrought_iron_nugget",
+      "amount": 9
+    },
+    "item:gtceu:wrought_iron_ingot",
+    "item:create:shaft",
+    "item:create:vertical_gearbox",
+    "item:create:fluid_tank",
+    {
+      "type": "item",
+      "id": "gtceu:ball_casting_mold",
+      "chance": 0.0
+    },
+    "item:gtceu:glass_dust",
+    "item:gtceu:hp_steam_forge_hammer",
+    "item:gtceu:hp_steam_alloy_smelter",
+    "item:tfc:blowpipe",
+    {
+      "type": "item",
+      "id": "tfc:kaolin_clay",
+      "amount": 9
+    },
+    "item:tfc:gem_saw{Damage:0}",
+    "item:gtceu:diamond_dust",
+    "item:gtceu:impure_diamond_dust",
+    "item:gtceu:sphalerite_dust",
+    {
+      "type": "fluid",
+      "id": "gtceu:brass",
+      "amount": 144
+    },
+    "item:gtceu:brass_ingot",
+    "item:gtceu:brass_rod",
+    {
+      "type": "item",
+      "id": "tfc:fire_clay",
+      "amount": 30
+    },
+    "item:tfc:red_kaolin_clay",
+    "item:tfc:pink_kaolin_clay",
+    "item:tfc:white_kaolin_clay",
+    {
+      "type": "item",
+      "id": "tfc:powder/kaolinite",
+      "amount": 4
+    },
+    "item:tfc:silica_glass_batch",
+    "item:tfc:ceramic_blowpipe_with_glass{\"tfc:glass_work_data\":{stack:{Count:1b,id:\"minecraft:air\"},steps:[I;]}}",
+    "item:tfc:ceramic_blowpipe",
+    "item:tfc:ceramic/unfired_blowpipe",
+    "item:tfc:food/dried_kelp",
+    {
+      "type": "item",
+      "id": "tfc:plant/giant_kelp_flower",
+      "amount": 9
+    },
+    {
+      "type": "item",
+      "id": "tfc:plant/leafy_kelp",
+      "amount": 54
+    },
+    "item:gtceu:saltpeter_dust",
+    "item:tfc:powder/saltpeter",
+    "#item:tfc:glassworking_potash",
+    "item:tfc:powder/soda_ash",
+    {
+      "type": "item",
+      "id": "tfc:powder/flux",
+      "amount": 17
+    },
+    {
+      "type": "item",
+      "id": "tfc:powder/wood_ash",
+      "amount": 2
+    },
+    "item:gtceu:soda_ash_dust",
+    "item:gtceu:steam_oven",
+    "item:steamadditions:steam_foundry",
+    "item:gtceu:lp_steam_solid_boiler",
+    {
+      "type": "item",
+      "id": "gtceu:tin_alloy_plate",
+      "amount": 14
+    },
+    "item:gtceu:tin_alloy_small_fluid_pipe",
+    {
+      "type": "item",
+      "id": "gtceu:tin_alloy_ingot",
+      "amount": 14
+    },
+    "item:tfc:crucible{BlockEntityTag:{empty:0b,id:\"tfc:crucible\",inventory:{alloy:{contents:{\"tfc:cast_iron\":1696.0d,\"tfc:tin\":2304.0d},maxUnits:4000,totalUnits:4000},inventory:{Items:[],Size:10}},lastUpdateTick:1667277L,targetTemperature:0.0f,targetTemperatureStabilityTicks:5,temperature:1350.0f,x:1014,y:63,z:2395}}",
+    "item:tfc:metal/anvil/steel",
+    "item:gtceu:steel_double_ingot",
+    "item:gtceu:bronze_brick_casing",
+    {
+      "type": "fluid",
+      "id": "gtceu:tin_alloy",
+      "amount": 144
+    },
+    "item:gtceu:tin_alloy_double_ingot",
+    "item:gtceu:bronze_tiny_fluid_pipe",
+    "item:gtceu:stainless_steel_tiny_fluid_pipe",
+    "item:gtceu:duranium_small_fluid_pipe",
+    "item:create:electron_tube",
+    "item:create:crushing_wheel",
+    "item:create:millstone",
+    "item:tfcchannelcasting:heart_mold{}",
+    {
+      "type": "fluid",
+      "id": "tfg:weak_steel",
+      "amount": 144
+    },
+    "item:tfc:metal/ingot/weak_steel",
+    "item:tfc:metal/ingot/high_carbon_black_steel",
+    "item:gtceu:black_steel_ingot",
+    "item:gtceu:uv_fusion_reactor",
+    "item:gtceu:trinium_dust",
+    "item:gtceu:hot_trinium_ingot",
+    "item:gtceu:trinium_ingot",
+    {
+      "type": "item",
+      "id": "gtceu:trinium_sulfide_dust",
+      "amount": 2
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:helium",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:liquid_helium",
+      "amount": 500
+    },
+    "item:gtceu:black_steel_plate",
+    "item:tfc:ceramic/fire_ingot_mold{tank:{Amount:15,FluidName:\"tfg:pig_iron\"}}",
+    {
+      "type": "item",
+      "id": "gtceu:hematite_dust",
+      "amount": 10
+    },
+    "item:gtceu:double_wrought_iron_plate",
+    "item:tfc:metal/tuyere/wrought_iron{Damage:0}",
+    "item:waystones:waystone",
+    "item:minecraft:lead",
+    {
+      "type": "item",
+      "id": "tfc:powder/graphite",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "tfc:jute_fiber",
+      "amount": 14
+    },
+    "item:tfc:jute_net",
+    "item:tfc:dirty_jute_net",
+    "item:tfc:ceramic/unfired_crucible",
+    "item:gtceu:impure_graphite_dust",
+    "item:gtceu:pure_graphite_dust",
+    "item:gtceu:purified_graphite_ore",
+    "item:tfc:blast_furnace",
+    "item:createaddition:rolling_mill",
+    "item:gtceu:wrought_iron_gear",
+    {
+      "type": "item",
+      "id": "gtceu:wrought_iron_plate",
+      "amount": 10
+    },
+    "item:gtceu:wrought_iron_rod",
+    "item:gtceu:wrought_iron_ring",
+    {
+      "type": "item",
+      "id": "railways:track_monorail",
+      "amount": 6
+    },
+    "item:gtceu:bronze_rod",
+    "item:gtceu:bronze_gear",
+    "item:toms_storage:ts.inventory_cable_connector",
+    "item:toms_storage:ts.crafting_terminal",
+    "item:toms_storage:ts.storage_terminal",
+    "item:gtceu:steel_crate",
+    "item:toms_storage:ts.open_crate",
+    "item:chisel:shipping_crate/birch_planks",
+    "item:chisel:shipping_crate/acacia_planks",
+    "item:gtceu:stainless_steel_crate",
+    "item:gtceu:titanium_crate",
+    "item:gtceu:aluminium_crate",
+    "item:gtceu:wood_crate",
+    "item:gtceu:bronze_crate",
+    "item:gtceu:long_bronze_rod",
+    "item:gtceu:bronze_drum",
+    {
+      "type": "item",
+      "id": "tfc:seeds/yellow_bell_pepper",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/maize",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "tfc:seeds/maize",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/venison",
+      "amount": 21
+    },
+    "item:tfc:papyrus",
+    "item:tfchotornot:tong_part/blue_steel",
+    "item:tfchotornot:tongs/blue_steel{Damage:2908}",
+    "item:tfc:wood/planks/maple_loom",
+    {
+      "type": "item",
+      "id": "tfc:wood/twig/kapok",
+      "amount": 9
+    },
+    "item:gtceu:bronze_plate",
+    "item:ae2:charged_certus_quartz_crystal",
+    "item:ae2:certus_quartz_crystal",
+    "item:ae2:certus_quartz_dust",
+    "item:gtceu:impure_certus_quartz_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_certus_quartz_ore",
+      "amount": 2
+    },
+    "item:gtceu:raw_certus_quartz",
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/marble",
+      "amount": 2
+    },
+    "item:toolbelt:belt{}",
+    {
+      "type": "item",
+      "id": "tfc:brick/gabbro",
+      "amount": 40
+    },
+    "item:gtceu:ulv_machine_casing",
+    "item:gtceu:ulv_machine_hull",
+    "item:gtceu:wood_plate",
+    "item:gtceu:wood_dust",
+    {
+      "type": "item",
+      "id": "createdeco:dusk_brick_slab",
+      "amount": 28
+    },
+    "item:tfc:straw",
+    "item:tfc:thatch",
+    {
+      "type": "item",
+      "id": "createdeco:dean_bricks",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "createdeco:blue_bricks",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "createdeco:umber_bricks",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "createdeco:pearl_bricks",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "tfc:rock/cobble/marble",
+      "amount": 10
+    },
+    "item:tfc:ceramic/unfired_brick",
+    "item:minecraft:clay",
+    {
+      "type": "item",
+      "id": "createdeco:verdant_bricks",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:fort_block_0",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "tfc:daub",
+      "amount": 2
+    },
+    "item:tfc:food/tropical_fish",
+    "item:tfc:food/cooked_shellfish",
+    "item:tfc:food/lake_trout",
+    {
+      "type": "item",
+      "id": "tfc:rock/bricks/quartzite",
+      "amount": 32
+    },
+    "item:createdeco:corner_dusk_bricks",
+    "item:createdeco:blue_brick_slab",
+    "item:createdeco:short_red_brick_slab",
+    "item:minecraft:brick_slab",
+    "item:rnr:brick_road_slab",
+    "item:tfc:rock/chiseled/gabbro",
+    "item:chisel:braid/acacia_planks",
+    "item:rnr:wood/shingles/willow_slab",
+    "item:rnr:wood/shingles/spruce_slab",
+    "item:rnr:brick_road",
+    "item:rnr:metal/mattock_head/copper",
+    "item:rnr:metal/mattock/copper{Damage:0}",
+    "item:rnr:wood/shingles/birch",
+    "item:rnr:ceramic_roof",
+    "item:rnr:terracotta_roof",
+    "item:firmalife:iron_greenhouse_panel_roof",
+    "item:gtceu:corrosion_proof_casing",
+    "item:gtnn:radiation_proof_machine_casing",
+    {
+      "type": "item",
+      "id": "gtceu:dense_lead_plate",
+      "amount": 6
+    },
+    "item:firmaciv:thatch_roofing_slab",
+    "item:firmaciv:thatch_roofing",
+    {
+      "type": "item",
+      "id": "tfc:brick/quartzite",
+      "amount": 45
+    },
+    "item:thoriumreactors:graphite_crystal",
+    {
+      "type": "item",
+      "id": "gtceu:tempered_glass",
+      "amount": 3
+    },
+    "item:thoriumreactors:reactor_glass",
+    "item:thoriumreactors:thermal_conductor",
+    "item:thoriumreactors:turbine_casing",
+    "item:thoriumreactors:molten_salt_bucket",
+    "item:thoriumreactors:steam_bucket",
+    "item:thoriumreactors:turbine_valve",
+    "item:thoriumreactors:thorium_block",
+    "item:thoriumreactors:nickel_ingot",
+    "item:thoriumreactors:thorium_chest_block",
+    "item:thoriumreactors:thermal_valve",
+    "item:thoriumreactors:reactor_core",
+    "item:thoriumreactors:reactor_rod_controller",
+    "item:thoriumreactors:reactor_valve",
+    "item:thoriumreactors:reactor_controller",
+    "item:thoriumreactors:reactor_casing",
+    "item:thoriumreactors:machine_casing",
+    {
+      "type": "fluid",
+      "id": "gtceu:epoxy",
+      "amount": 144
+    },
+    "item:gtceu:reinforced_epoxy_resin_plate",
+    "item:gtceu:reinforced_epoxy_resin_dust",
+    {
+      "type": "fluid",
+      "id": "gtceu:reinforced_epoxy_resin",
+      "amount": 144
+    },
+    "item:gtceu:reinforced_epoxy_resin_ingot",
+    {
+      "type": "item",
+      "id": "thoriumreactors:graphite_tube",
+      "amount": 25
+    },
+    "item:thoriumreactors:reactor_graphite_moderator",
+    "item:thoriumreactors:electromagnetic_coil",
+    "item:thoriumreactors:chromium_block",
+    "item:thoriumreactors:titanium_block",
+    "item:thoriumreactors:aluminum_block",
+    "item:thoriumreactors:niob_block",
+    "item:thoriumreactors:industrial_block_smooth",
+    "item:thoriumreactors:black_industrial_block_smooth",
+    "item:thoriumreactors:black_industrial_block",
+    "item:thoriumreactors:black_industrial_block_brick",
+    "item:thoriumreactors:grate_wall_block",
+    "item:thoriumreactors:grate_floor_block",
+    "item:thoriumreactors:industrial_block_floor",
+    "item:thoriumreactors:factory_block",
+    {
+      "type": "item",
+      "id": "thoriumreactors:white_industrial_block",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "thoriumreactors:industrial_block",
+      "amount": 16
+    },
+    "item:createdeco:industrial_iron_sheet_metal",
+    "item:createdeco:copper_sheet_metal",
+    "item:createdeco:andesite_sheet_metal",
+    "item:createdeco:brass_sheet_metal",
+    "item:createdeco:iron_sheet_metal",
+    "item:assorteddecor:tarball",
+    "item:assorteddecor:asphalt",
+    "item:assorteddecor:roadway",
+    "item:assorteddecor:chain_link_fence",
+    "item:assorteddecor:chain_link",
+    "item:assorteddecor:steel_door",
+    "item:assorteddecor:quartz_door",
+    "item:assorteddecor:glass_door",
+    "item:assorteddecor:planter_pot",
+    "item:assorteddecor:wood_frame",
+    "item:assorteddecor:iron_frame",
+    "item:assorteddecor:cage",
+    "item:assorteddecor:sidewalk",
+    "item:assorteddecor:stone_path",
+    "item:xtonesreworked:kryp_block_0",
+    "item:minecraft:dirt",
+    {
+      "type": "item",
+      "id": "xtonesreworked:roen_block_0",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:tank_block_0",
+      "amount": 8
+    },
+    "item:minecraft:black_dye",
+    {
+      "type": "item",
+      "id": "xtonesreworked:vect_block_0",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:vena_block_0",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:zane_block_15",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:zech_block_15",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:zest_block_15",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:zeta_block_15",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:zoea_block_15",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:zone_block_15",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:zorg_block_15",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:xtone_tile",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:zyth_block_15",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "xtonesreworked:bitt_block_0",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "factory_blocks:factory",
+      "amount": 32
+    },
+    {
+      "type": "tag",
+      "registry": "minecraft:item",
+      "id": "tfg:stone_dusts",
+      "amount": 3
+    },
+    "item:minecraft:stone",
+    "item:minecraft:andesite",
+    "item:minecraft:polished_andesite",
+    "item:chisel:chaotic_bricks/andesite",
+    {
+      "type": "item",
+      "id": "tfc:wood/planks/maple",
+      "amount": 24
+    },
+    "item:sophisticatedbackpacks:backpack{contentsUuid:[I;-768527198,1390297729,-1688870955,-945774065],inventorySlots:27,renderInfo:{upgradeItems:[{Count:1b,id:\"minecraft:air\"}]},upgradeSlots:1}",
+    "item:sophisticatedbackpacks:netherite_backpack",
+    "item:sophisticatedbackpacks:diamond_backpack",
+    "item:sophisticatedbackpacks:gold_backpack",
+    "item:sophisticatedbackpacks:iron_backpack",
+    "item:firmaciv:firmaciv_compass",
+    "item:firmalife:reinforced_glass",
+    "item:gtceu:red_steel_plate",
+    "item:gtceu:electric_blast_furnace",
+    "item:gtceu:alloy_blast_smelter",
+    "item:gtceu:hv_arc_furnace",
+    "item:gtceu:mv_arc_furnace",
+    "item:gtceu:lv_arc_furnace",
+    "item:thoriumreactors:blasted_stone",
+    "item:thoriumreactors:blasted_iron_block",
+    "item:thoriumreactors:blasted_iron_ingot",
+    "item:thoriumreactors:blasted_iron_chest_block",
+    "item:thoriumreactors:blasted_iron_nugget",
+    {
+      "type": "fluid",
+      "id": "gtceu:bronze",
+      "amount": 576
+    },
+    "item:gtceu:large_combustion_engine",
+    "item:toms_storage:ts.inventory_cable",
+    {
+      "type": "item",
+      "id": "gtceu:platinum_raw_dust",
+      "amount": 4
+    },
+    "item:gtceu:platinum_dust",
+    "item:gtceu:platinum_metal_dust",
+    {
+      "type": "item",
+      "id": "gtceu:refined_platinum_salt_dust",
+      "chance": 0.15
+    },
+    {
+      "type": "item",
+      "id": "gtceu:platinum_salt_dust",
+      "amount": 16
+    },
+    "item:create:mechanical_press",
+    "item:tfc:metal/anvil/wrought_iron",
+    "item:gtceu:wrought_iron_block",
+    "item:create:depot",
+    {
+      "type": "item",
+      "id": "tfc:food/barley_flour",
+      "amount": 11
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/barley_grain",
+      "amount": 11
+    },
+    "item:firmalife:food/barley_flatbread",
+    {
+      "type": "item",
+      "id": "tfc:food/barley_dough",
+      "amount": 14
+    },
+    "item:create:andesite_casing",
+    "item:gtceu:wrought_iron_double_ingot",
+    "item:create:basin",
+    "item:gtceu:block_casting_mold",
+    "item:create:water_wheel",
+    "item:create:large_water_wheel",
+    "item:gtceu:phenolic_circuit_board",
+    "item:gtceu:resin_circuit_board",
+    {
+      "type": "item",
+      "id": "gtceu:treated_wood_planks",
+      "amount": 10
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:nitrochlorobenzene",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gcyr:nitroaniline",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gcyr:para_phenylenediamine",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gcyr:para_aramid",
+      "amount": 144
+    },
+    "item:gcyr:para_aramid_ingot",
+    {
+      "type": "item",
+      "id": "gcyr:para_aramid_foil",
+      "amount": 4
+    },
+    "item:gcyr:space_fabric",
+    "item:gcyr:space_helmet{Damage:0}",
+    "item:gcyr:rocket_scanner",
+    "item:gcyr:iv_oxygen_spreader",
+    "item:gcyr:seat",
+    "item:gcyr:launch_pad",
+    "item:minecraft:black_concrete",
+    "item:gcyr:stainless_evaporation_casing",
+    "item:gcyr:dyson_sphere_maintenance_port",
+    "item:gcyr:dyson_solar_cell",
+    "item:gcyr:dyson_sphere_casing",
+    "item:gtceu:tungsten_grinding_head",
+    "item:gtceu:wrought_iron_wrench{DisallowContainerItem:0b,GT.Behaviours:{Mode:2b},GT.Tool:{AttackDamage:3.0f,AttackSpeed:-3.0f,Damage:1,HarvestLevel:2,LastCraftingUse:-1063314543,MaxDamage:2303,ToolSpeed:6.0f},HideFlags:2}",
+    {
+      "type": "fluid",
+      "id": "firmalife:yeast_starter",
+      "amount": 100
+    },
+    "item:tfc:food/rice_flour",
+    {
+      "type": "item",
+      "id": "tfc:food/rice_grain",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/potato",
+      "amount": 11
+    },
+    "item:gtceu:treated_wood_slab",
+    "item:gtceu:hp_steam_compressor",
+    "item:gtceu:coke_oven",
+    "item:gtceu:rubber_plate",
+    "item:gtceu:styrene_butadiene_rubber_plate",
+    "item:tfc:wood/log/kapok",
+    "item:gtceu:raw_rubber_ingot",
+    "item:tfc:raw_iron_bloom",
+    "item:tfc:refined_iron_bloom",
+    "item:gtceu:lv_conveyor_module",
+    "item:gtceu:lv_cutter",
+    "item:gtceu:cobalt_brass_buzz_saw_blade",
+    "item:create:mechanical_saw",
+    {
+      "type": "item",
+      "id": "gtceu:hastelloy_c_276_plate",
+      "amount": 6
+    },
+    "item:gtceu:shock_proof_cutting_casing",
+    "item:gtceu:drilling_fluid_bucket",
+    "item:gtceu:basic_electronic_circuit",
+    "item:gtceu:coke_oven_hatch",
+    "item:gtceu:wrought_iron_file_head",
+    "item:gtceu:wrought_iron_file{GT.Tool:{Damage:0}}",
+    "#item:forge:tools/files",
+    {
+      "type": "item",
+      "id": "gtceu:coke_oven_bricks",
+      "amount": 30
+    },
+    {
+      "type": "fluid",
+      "id": "tfg:high_carbon_steel",
+      "amount": 144
+    },
+    {
+      "type": "fluid",
+      "id": "gcyr:molten_bisalloy_400",
+      "amount": 144
+    },
+    "item:gcyr:bisalloy_400_ingot",
+    "item:gcyr:bisalloy_400_dust",
+    "item:gcyr:hot_bisalloy_400_ingot",
+    "item:gcyr:bisalloy_400_plate",
+    "item:gcyr:bisalloy_400_wrench{GT.Tool:{Damage:0}}",
+    "#item:forge:tools/wrenches",
+    {
+      "type": "item",
+      "id": "gtceu:coke_oven_brick",
+      "amount": 27
+    },
+    {
+      "type": "item",
+      "id": "gtceu:compressed_coke_clay",
+      "amount": 64
+    },
+    "item:gtceu:brick_wooden_form",
+    {
+      "type": "item",
+      "id": "tfc:rock/gravel/claystone",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "tfc:sand/yellow",
+      "amount": 3
+    },
+    "item:gtceu:empty_wooden_form",
+    "item:tfc:metal/anvil/bronze",
+    "item:tfc:metal/anvil/copper",
+    "item:gtceu:impure_goethite_dust",
+    "item:gtceu:impure_yellow_limonite_dust",
+    "item:gtceu:crushed_yellow_limonite_ore",
+    "item:gtceu:impure_hematite_dust",
+    "item:tfc:bloomery",
+    "item:gtceu:double_bronze_plate",
+    "#item:forge:double_sheets/any_bronze",
+    "item:gtceu:bronze_double_ingot",
+    "item:gtceu:hp_steam_solar_boiler",
+    "item:gtceu:hp_steam_solid_boiler",
+    "item:gtceu:lp_steam_liquid_boiler",
+    "item:gtceu:lp_steam_solar_boiler",
+    "item:gtceu:solid_machine_casing",
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/slate",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/rice",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/barley",
+      "amount": 11
+    },
+    {
+      "type": "item",
+      "id": "gtceu:bronze_ingot",
+      "amount": 2
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:tin",
+      "amount": 288
+    },
+    "item:gtceu:fireclay_dust",
+    {
+      "type": "item",
+      "id": "tfc:ceramic/fire_brick",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "tfc:fire_bricks",
+      "amount": 4
+    },
+    "item:tfcchannelcasting:unfired_mold_table",
+    "item:tfc:ceramic/unfired_fire_ingot_mold",
+    "item:tfcchannelcasting:unfired_channel",
+    {
+      "type": "item",
+      "id": "firmalife:fruit_leaf",
+      "amount": 12
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/strawberry",
+      "amount": 13
+    },
+    {
+      "type": "item",
+      "id": "gtceu:graphite_dust",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "id": "gtceu:tetrahedrite_dust",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "gtceu:copper_double_ingot",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "tfc:powder/tetrahedrite",
+      "amount": 4
+    },
+    "item:gtceu:impure_copper_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_copper_ore",
+      "amount": 15
+    },
+    {
+      "type": "item",
+      "id": "tfc:rock/cracked_bricks/quartzite",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "tfc:wood/log/douglas_fir",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "id": "tfc:ceramic/unfired_fire_brick",
+      "amount": 12
+    },
+    {
+      "type": "item",
+      "id": "minecraft:rotten_flesh",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "tfc:torch",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:stick",
+      "amount": 32
+    },
+    "item:framedblocks:framed_cube",
+    "item:minecraft:ladder",
+    {
+      "type": "item",
+      "id": "minecraft:charcoal",
+      "amount": 57
+    },
+    "item:tfc:handstone{Damage:0}",
+    "item:tfc:quern",
+    "item:gtceu:impure_tetrahedrite_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_tetrahedrite_ore",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "gtceu:zeolite_dust",
+      "amount": 3
+    },
+    "item:gtceu:raw_zeolite",
+    {
+      "type": "item",
+      "id": "tfc:alabaster/bricks",
+      "amount": 4
+    },
+    "item:tfc:alabaster_brick",
+    "item:firmaciv:large_waterproof_hide",
+    {
+      "type": "fluid",
+      "id": "gtceu:nitric_oxide",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:nitrosyl_chloride",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:cyclohexane",
+      "amount": 1000
+    },
+    {
+      "type": "item",
+      "id": "gtceu:cyclohexanone_oxime_dust",
+      "amount": 19
+    },
+    "item:gtceu:caprolactam_dust",
+    "item:gtceu:polycaprolactam_ingot",
+    "item:minecraft:string",
+    {
+      "type": "item",
+      "id": "tfc:treated_hide",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "tfc:wood/sapling/douglas_fir",
+      "amount": 18
+    },
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/dolomite",
+      "amount": 32
+    },
+    "#item:tfc:fluxstone",
+    "item:firmalife:solar_drier",
+    "item:firmalife:drying_mat",
+    "item:tfc:metal/propick_head/bronze",
+    "item:gtceu:greenhouse",
+    "item:tfc:rock/cobble/andesite",
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/andesite",
+      "amount": 32
+    },
+    "item:functionalstorage:tfc_kapok_1",
+    "item:functionalstorage:tfc_birch_4",
+    "item:functionalstorage:warped_2",
+    "item:functionalstorage:cherry_2",
+    "item:functionalstorage:tfc_aspen_4",
+    "item:functionalstorage:tfc_willow_1",
+    "item:functionalstorage:dark_oak_1",
+    "item:functionalstorage:crimson_1",
+    "item:functionalstorage:mangrove_1",
+    "item:functionalstorage:tfc_hickory_1",
+    "item:functionalstorage:tfc_spruce_1",
+    "item:functionalstorage:tfc_sequoia_1",
+    "item:functionalstorage:tfc_sycamore_1",
+    "item:functionalstorage:tfc_white_cedar_1",
+    "item:functionalstorage:tfc_pine_1",
+    "item:functionalstorage:tfc_aspen_1",
+    "item:functionalstorage:tfc_ash_1",
+    "item:functionalstorage:framed_2",
+    "item:functionalstorage:framed_4",
+    {
+      "type": "item",
+      "id": "tfc:jute",
+      "amount": 14
+    },
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/claystone",
+      "amount": 7
+    },
+    {
+      "type": "item",
+      "id": "tfc:plant/blueberry_bush",
+      "amount": 2
+    },
+    "item:firmalife:plant/nightshade_bush",
+    "item:firmalife:food/pineapple",
+    {
+      "type": "fluid",
+      "id": "gtceu:concrete",
+      "amount": 144
+    },
+    "item:gtceu:dark_concrete",
+    "item:gtceu:light_concrete",
+    "item:gtceu:light_concrete_cobblestone",
+    "item:gtceu:polished_light_concrete",
+    "item:gtceu:concrete_dust",
+    "item:tfc:food/barley_bread_sandwich",
+    "item:waterflasks:leather_flask{Damage:0}",
+    "item:tfc:wood/sapling/kapok",
+    "item:gtceu:bronze_pickaxe{DisallowContainerItem:0b,GT.Behaviours:{},GT.Tool:{AttackDamage:3.0f,AttackSpeed:-2.8f,Damage:0,HarvestLevel:2,MaxDamage:1151,ToolSpeed:7.0f},HideFlags:2}",
+    "item:gtceu:bronze_saw{DisallowContainerItem:0b,GT.Behaviours:{HarvestIce:1b},GT.Tool:{AttackDamage:1.0f,AttackSpeed:-2.6f,Damage:21,MaxDamage:1151},HideFlags:2}",
+    "item:tfc:brick/andesite",
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/conglomerate",
+      "amount": 2
+    },
+    "item:minecraft:name_tag",
+    "item:tfc:medium_sheepskin_hide",
+    "item:tfc:wood/barrel/acacia",
+    "item:tfc:wood/barrel/aspen",
+    "item:tfc:wood/planks/acacia_loom",
+    "#item:tfc:kapok_logs",
+    {
+      "type": "fluid",
+      "id": "gtceu:glue",
+      "amount": 50
+    },
+    "item:tfc:ceramic/unfired_large_vessel",
+    {
+      "type": "fluid",
+      "id": "gtceu:rubber",
+      "amount": 1296
+    },
+    "item:minecraft:magma_cream",
+    "item:tfchotornot:tongs/wood{Damage:0}",
+    "item:gtceu:bronze_pickaxe_head",
+    "item:tfc:stone/javelin/igneous_extrusive{Damage:0}",
+    "item:gtceu:bismuth_bronze_pickaxe_head",
+    {
+      "type": "fluid",
+      "id": "gtceu:bismuth_bronze",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:bismuth",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "id": "tfc:ore/small_bismuthinite",
+      "amount": 12
+    },
+    "item:tfc:dead_torch",
+    "item:tfc:ceramic/unfired_ingot_mold",
+    "item:tfc:ceramic/unfired_jug",
+    "item:tfc:ceramic/unfired_chisel_head_mold",
+    "item:tfc:ceramic/unfired_propick_head_mold",
+    "item:tfc:ceramic/unfired_saw_blade_mold",
+    "item:tfcambiental:straw_hat{Damage:0}",
+    "item:tfc:stone/javelin_head/igneous_extrusive",
+    {
+      "type": "item",
+      "id": "tfc:wood/log/birch",
+      "amount": 11
+    },
+    {
+      "type": "item",
+      "id": "tfc:wood/fallen_leaves/douglas_fir",
+      "amount": 4
+    },
+    "item:tfc:plant/dry_phragmite",
+    "item:functionalstorage:storage_controller",
+    "item:gtceu:stone_knife_head",
+    "item:gtceu:black_bronze_knife_head",
+    "item:gtceu:black_bronze_knife{DisallowContainerItem:0b,GT.Behaviours:{},GT.Tool:{AttackDamage:2.0f,AttackSpeed:3.0f,Damage:0,MaxDamage:1223},HideFlags:2}",
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/shale",
+      "amount": 6
+    },
+    "item:expatternprovider:ex_molecular_assembler",
+    "item:gtceu:luv_input_hatch",
+    "item:ae2wtlib:wireless_universal_terminal{internalCurrentPower:1600000.0d}",
+    "item:gtceu:extreme_combustion_engine",
+    "item:gtceu:me_output_bus",
+    "item:gtceu:me_input_bus",
+    "item:ae2:controller",
+    "item:ae2:drive",
+    "item:ae2:chest",
+    "item:ae2:io_port",
+    "item:ae2:cell_workbench",
+    "item:ae2:condenser",
+    "item:trashcans:ultimate_trash_can",
+    "item:trashcans:liquid_trash_can",
+    "item:trashcans:item_trash_can",
+    "item:trashcans:energy_trash_can",
+    "item:gtceu:raw_monazite",
+    "item:minecraft:smooth_stone",
+    "item:ae2:singularity",
+    "item:firmalife:pumping_station",
+    "item:gtceu:iv_naquadah_alloy_drill{Charge:2147483647L,DisallowContainerItem:0b,GT.Behaviours:{AoEColumn:4,AoELayer:8,AoERow:4,MaxAoEColumn:4,MaxAoELayer:8,MaxAoERow:4,RelocateMinedBlocks:1b},GT.Tool:{Damage:0,HarvestLevel:5,MaxDamage:129023,ToolSpeed:44.0f},HideFlags:2,MaxCharge:2147483647L}",
+    "item:gtceu:iv_vanadium_steel_drill{Charge:2147483647L,DisallowContainerItem:0b,GT.Behaviours:{AoEColumn:4,AoELayer:8,AoERow:4,MaxAoEColumn:4,MaxAoELayer:8,MaxAoERow:4},GT.Tool:{Damage:0,HarvestLevel:3,MaxDamage:64511,ToolSpeed:7.0f},HideFlags:2,MaxCharge:2147483647L}",
+    "item:gtceu:mv_titanium_drill{Charge:2147483647L,DisallowContainerItem:0b,GT.Behaviours:{AoEColumn:1,AoELayer:2,AoERow:1,MaxAoEColumn:1,MaxAoELayer:2,MaxAoERow:1},GT.Tool:{Damage:0,HarvestLevel:3,MaxDamage:36863,ToolSpeed:12.0f},HideFlags:2,MaxCharge:2147483647L}",
+    {
+      "type": "item",
+      "id": "gtceu:small_samarium_dust",
+      "chance": 0.25
+    },
+    "item:gtceu:rare_earth_dust",
+    "item:gtceu:monazite_dust",
+    "item:gtceu:impure_monazite_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_monazite_ore",
+      "amount": 4
+    },
+    "item:gtceu:cooperite_dust",
+    "item:gtceu:impure_cooperite_dust",
+    "item:gtceu:crushed_cooperite_ore",
+    {
+      "type": "item",
+      "id": "gtceu:raw_cooperite",
+      "amount": 4,
+      "chance": 0.5
+    },
+    "item:gtceu:advanced_large_chemical_reactor",
+    "item:craftingstation:crafting_station",
+    "item:tfc:wood/planks/maple_workbench",
+    "item:createdeco:andesite_window",
+    "item:tfc:rock/raw/andesite",
+    "item:createdeco:andesite_sheet",
+    "item:createdeco:iron_support_wedge",
+    "item:minecraft:iron_bars",
+    "item:createdeco:iron_catwalk",
+    "item:minecraft:glowstone_dust",
+    "item:create:andesite_alloy",
+    "item:createdeco:iron_catwalk_railing",
+    "item:create:industrial_iron_block",
+    "item:gtceu:iron_plate",
+    {
+      "type": "fluid",
+      "id": "gtceu:glowstone",
+      "amount": 144
+    },
+    "item:tesseract:tesseract",
+    {
+      "type": "fluid",
+      "id": "gtceu:hydrogen_sulfide",
+      "amount": 0
+    },
+    "item:gtceu:small_zinc_dust",
+    "item:gtceu:zinc_dust",
+    "item:gtceu:phosphorus_dust",
+    {
+      "type": "item",
+      "id": "gtceu:manganese_phosphide_dust",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "gtceu:phosphorus_pentoxide_dust",
+      "amount": 14
+    },
+    "item:gtceu:phosphate_dust",
+    "item:gtceu:iron_rod",
+    "item:ae2:quantum_entangled_singularity",
+    "item:chisel:chisel",
+    "item:gtceu:raw_coal",
+    "item:minecraft:coal",
+    "item:createdeco:iron_catwalk_stairs",
+    "item:create:scorchia",
+    "item:gtceu:carbon_dust",
+    {
+      "type": "item",
+      "id": "gtceu:basalt_dust",
+      "amount": 16
+    },
+    "item:gtceu:dark_ash_dust",
+    "item:gtceu:ash_dust",
+    "item:gtceu:magnetic_samarium_plate",
+    "item:gtceu:neutronium_plate",
+    "item:gtceu:polyvinyl_chloride_plate",
+    "item:railways:track_create_andesite_wide",
+    "item:create:andesite_funnel",
+    "item:create:andesite_tunnel",
+    "item:create:andesite_ladder",
+    "item:create:andesite_scaffolding",
+    "item:create:andesite_door",
+    "item:createdeco:andesite_support_wedge",
+    "item:createdeco:andesite_catwalk_railing",
+    "item:createdeco:andesite_catwalk_stairs",
+    "item:createdeco:andesite_catwalk",
+    "item:createdeco:andesite_mesh_fence",
+    "item:createdeco:andesite_bars",
+    "item:createdeco:andesite_bars_overlay",
+    "item:createdeco:andesite_window_pane",
+    "item:gtceu:clay_dust",
+    "item:gtceu:obsidian_dust",
+    "item:minecraft:ender_chest",
+    "item:gtceu:small_obsidian_dust",
+    "item:gtceu:obsidian_plate",
+    "item:gtceu:tiny_obsidian_dust",
+    {
+      "type": "item",
+      "id": "gtceu:small_perlite_dust",
+      "amount": 4
+    },
+    "item:gtceu:perlite_dust",
+    {
+      "type": "item",
+      "id": "gtceu:tiny_perlite_dust",
+      "amount": 9
+    },
+    "item:minecraft:obsidian",
+    {
+      "type": "fluid",
+      "id": "minecraft:lava",
+      "amount": 1000
+    },
+    "item:thoriumreactors:black_industrial_block_floor",
+    "item:thoriumreactors:frameless_black_industrial_block_floor",
+    "item:thoriumreactors:black_industrial_block_paving",
+    "item:thoriumreactors:black_industrial_block_big_tile",
+    "item:antiblocksrechiseled:bright_black",
+    "item:chisel:array/deepslate",
+    "item:tfc:rock/hardened/andesite",
+    "item:createdeco:andesite_door",
+    "item:createdeco:zinc_window",
+    "item:createdeco:zinc_window_pane",
+    "item:createdeco:iron_window_pane",
+    "item:createdeco:copper_window_pane",
+    "item:createdeco:industrial_iron_window_pane",
+    "item:createdeco:industrial_iron_window",
+    "item:createdeco:brass_window",
+    "item:createdeco:iron_window",
+    "item:createdeco:copper_window",
+    "item:createdeco:short_dusk_bricks",
+    "item:createdeco:tiled_red_bricks",
+    "item:createdeco:short_red_bricks",
+    "item:createdeco:orange_placard",
+    "item:createdeco:decal_warning",
+    "item:createdeco:decal_creeper",
+    "item:createdeco:decal_skull",
+    "item:createdeco:decal_ice",
+    "item:createdeco:zinc_sheet",
+    "item:createdeco:zinc_sheet_metal",
+    "item:createdeco:industrial_iron_door",
+    "item:createdeco:copper_trapdoor",
+    "item:createdeco:locked_andesite_door",
+    "item:createdeco:andesite_trapdoor",
+    "item:createdeco:industrial_iron_support",
+    "item:createdeco:copper_support",
+    "item:createdeco:iron_support",
+    "item:createdeco:brass_support",
+    "item:createdeco:andesite_support",
+    "item:createdeco:copper_hull",
+    "item:createdeco:iron_hull",
+    "item:createdeco:brass_hull",
+    "item:createdeco:andesite_hull",
+    "item:createdeco:zinc_ladder",
+    "item:createdeco:industrial_iron_ladder",
+    "item:createdeco:iron_ladder",
+    "item:createdeco:zinc_catwalk_railing",
+    "item:createdeco:zinc_catwalk_stairs",
+    "item:createdeco:zinc_catwalk",
+    "item:createdeco:industrial_iron_support_wedge",
+    "item:createdeco:industrial_iron_catwalk_railing",
+    "item:createdeco:industrial_iron_catwalk",
+    "item:createdeco:industrial_iron_bars",
+    "item:createdeco:industrial_iron_catwalk_stairs",
+    "item:createdeco:copper_catwalk",
+    "item:createdeco:brass_bars",
+    "item:createdeco:brass_bars_overlay",
+    "item:createdeco:netherite_sheet",
+    "item:antiblocksrechiseled:pressure_plate_wool_lime",
+    "item:antiblocksrechiseled:stair_light_gray_wool",
+    "item:antiblocksrechiseled:slab_orange_wool",
+    "item:antiblocksrechiseled:stair_orange_wool",
+    "item:antiblocksrechiseled:stair_purple_wool",
+    "item:antiblocksrechiseled:stair_cyan_wool",
+    "item:antiblocksrechiseled:stair_blue_wool",
+    "item:antiblocksrechiseled:slab_white_bright",
+    "item:antiblocksrechiseled:bright_red_border",
+    "item:antiblocksrechiseled:slab_orange_bright",
+    "item:antiblocksrechiseled:bright_white",
+    "item:antiblocksrechiseled:bright_green",
+    "item:antiblocksrechiseled:stair_red_bright",
+    "item:antiblocksrechiseled:stair_cyan_bright",
+    "item:antiblocksrechiseled:bright_yellow",
+    "item:antiblocksrechiseled:bright_blue",
+    "item:antiblocksrechiseled:wool_lime",
+    "item:antiblocksrechiseled:wool_light_blue",
+    "item:antiblocksrechiseled:wool_white",
+    "item:simplylight:illuminant_purple_block",
+    "item:simplylight:illuminant_light_blue_block",
+    "item:simplylight:illuminant_lime_block",
+    "item:simplylight:illuminant_red_block",
+    "item:toms_storage:ts.wireless_terminal",
+    "item:toms_storage:ts.adv_wireless_terminal",
+    "item:toms_storage:ts.tag_item_filter",
+    "item:toms_storage:ts.polymorphic_item_filter",
+    "item:toms_storage:ts.item_filter",
+    "item:toms_storage:ts.level_emitter",
+    "item:toms_storage:ts.inventory_cable_connector_filtered",
+    "item:toms_storage:ts.inventory_connector",
+    "item:toms_storage:ts.trim",
+    {
+      "type": "item",
+      "id": "gtceu:tiny_glowstone_dust",
+      "amount": 9
+    },
+    {
+      "type": "item",
+      "id": "gtceu:small_glowstone_dust",
+      "amount": 4
+    },
+    "item:minecraft:glowstone",
+    "item:simplylight:wall_lamp",
+    "item:simplylight:illuminant_gray_block_on",
+    "item:simplylight:illuminant_light_gray_block_on",
+    "item:simplylight:illuminant_block_on",
+    "item:simplylight:lamp_post",
+    "item:simplylight:edge_light_top",
+    "item:simplylight:edge_light",
+    "item:simplylight:lightbulb",
+    "item:simplylight:rodlamp",
+    "item:simplylight:illuminant_slab",
+    "item:simplylight:illuminant_panel",
+    "item:framedblocks:framed_door",
+    "item:minecraft:iron_door",
+    "item:framedblocks:framed_iron_door",
+    "item:createaddition:modular_accumulator",
+    "item:createaddition:portable_energy_interface",
+    "item:createaddition:digital_adapter",
+    "item:createaddition:barbed_wire",
+    "item:firmalife:irrigation_tank",
+    "item:gtceu:tungsten_carbide_drill_head",
+    "item:gtceu:impure_naquadah_dust",
+    "item:gtceu:crushed_naquadah_ore",
+    {
+      "type": "item",
+      "id": "gtceu:raw_naquadah",
+      "amount": 4,
+      "chance": 0.3
+    },
+    {
+      "type": "item",
+      "id": "gtceu:tungstic_acid_dust",
+      "amount": 7
+    },
+    "item:gtceu:tungstate_dust",
+    "item:gtceu:impure_tungstate_dust",
+    "item:gtceu:crushed_tungstate_ore",
+    "item:gtceu:raw_tungstate",
+    "item:gtceu:tungsten_dust",
+    {
+      "type": "fluid",
+      "id": "gtceu:concentrated_platinum",
+      "amount": 2000
+    },
+    "item:gtceu:refined_bastnasite_ore",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_bastnasite_ore",
+      "amount": 2
+    },
+    "item:gtceu:raw_bastnasite",
+    {
+      "type": "fluid",
+      "id": "gtceu:caesium_xenontrioxide_fluoride",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:caesium_fluoride",
+      "amount": 1000
+    },
+    "item:gtceu:caesium_dust",
+    "item:gtceu:pollucite_dust",
+    "item:gtceu:raw_pollucite",
+    "item:gtceu:crushed_scheelite_ore",
+    "item:gtceu:raw_scheelite",
+    "item:gtceu:scheelite_dust",
+    "item:gtceu:impure_scheelite_dust",
+    "item:gtceu:crushed_pollucite_ore",
+    "item:gtceu:impure_pollucite_dust",
+    "item:gtceu:raw_mica",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_mica_ore",
+      "amount": 2
+    },
+    "item:gtceu:mica_dust",
+    "item:gtceu:impure_mica_dust",
+    "item:gtceu:raw_kyanite",
+    "item:gtceu:crushed_kyanite_ore",
+    "item:gtceu:kyanite_dust",
+    "item:gtceu:impure_kyanite_dust",
+    "item:gtceu:pyrope_dust",
+    "item:gtceu:impure_pyrope_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_pyrope_ore",
+      "amount": 3
+    },
+    "item:gtceu:raw_pyrope",
+    "item:gtceu:almandine_dust",
+    "item:gtceu:pure_almandine_dust",
+    "item:gtceu:purified_almandine_ore",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_almandine_ore",
+      "amount": 3
+    },
+    "item:gtceu:raw_almandine",
+    "item:gtceu:raw_green_sapphire",
+    "item:gtceu:gypsum_dust",
+    "item:gtceu:impure_gypsum_dust",
+    "item:gtceu:crushed_gypsum_ore",
+    "item:gtceu:raw_gypsum",
+    "item:gtceu:fullers_earth_dust",
+    "item:gtceu:impure_fullers_earth_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_fullers_earth_ore",
+      "amount": 2
+    },
+    "item:gtceu:raw_fullers_earth",
+    "item:gtceu:borax_dust",
+    "item:gtceu:impure_borax_dust",
+    "item:gtceu:crushed_borax_ore",
+    "item:gtceu:raw_borax",
+    {
+      "type": "item",
+      "id": "gtceu:borosilicate_glass_dust",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "gtceu:boron_dust",
+      "amount": 4
+    },
+    "item:gtceu:raw_talc",
+    "item:gtceu:raw_trona",
+    "item:gtceu:raw_soapstone",
+    "item:gtceu:raw_tin",
+    "item:gtceu:raw_pyrochlore",
+    "item:gtceu:pyrochlore_dust",
+    "item:gtceu:impure_tricalcium_phosphate_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_tricalcium_phosphate_ore",
+      "amount": 3
+    },
+    "item:gtceu:raw_tricalcium_phosphate",
+    "item:gtceu:raw_apatite",
+    "item:gtceu:raw_cassiterite_sand",
+    "item:gtceu:raw_lepidolite",
+    "item:gtceu:raw_spodumene",
+    "item:gtceu:spodumene_dust",
+    "item:gtceu:lepidolite_dust",
+    "item:gtceu:impure_lepidolite_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_lepidolite_ore",
+      "amount": 2
+    },
+    "item:gtceu:raw_tetrahedrite",
+    "item:minecraft:raw_copper",
+    "item:minecraft:raw_iron",
+    "item:gtceu:crushed_diatomite_ore",
+    "item:gtceu:raw_diatomite",
+    "item:gtceu:diatomite_dust",
+    "item:gtceu:raw_nether_quartz",
+    "item:minecraft:quartz",
+    "item:gtceu:nether_quartz_dust",
+    "item:gtceu:impure_nether_quartz_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_nether_quartz_ore",
+      "amount": 2
+    },
+    "item:gtceu:raw_barite",
+    "item:gtceu:barium_dust",
+    "item:gtceu:barite_dust",
+    "item:gtceu:olivine_dust",
+    "item:gtceu:impure_olivine_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_olivine_ore",
+      "amount": 2
+    },
+    "item:gtceu:raw_olivine",
+    "item:gtceu:bentonite_dust",
+    "item:gtceu:impure_bentonite_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_bentonite_ore",
+      "amount": 3
+    },
+    "item:gtceu:raw_bentonite",
+    "item:gtceu:impure_zeolite_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_zeolite_ore",
+      "amount": 3
+    },
+    "item:gtceu:raw_yellow_garnet",
+    "item:gtceu:raw_red_garnet",
+    "item:gtceu:raw_realgar",
+    "item:gtceu:ilmenite_dust",
+    "item:gtceu:impure_ilmenite_dust",
+    "item:gtceu:crushed_ilmenite_ore",
+    "item:gtceu:raw_ilmenite",
+    "item:gtceu:powellite_dust",
+    "item:gtceu:raw_powellite",
+    "item:gtceu:molybdenite_dust",
+    "item:gtceu:impure_molybdenite_dust",
+    "item:gtceu:crushed_molybdenite_ore",
+    "item:gtceu:raw_molybdenite",
+    "item:gtceu:molybdenum_dust",
+    "item:gtceu:impure_molybdenum_dust",
+    "item:gtceu:crushed_molybdenum_ore",
+    "item:gtceu:raw_molybdenum",
+    "item:gtceu:wulfenite_dust",
+    "item:gtceu:impure_wulfenite_dust",
+    "item:gtceu:raw_wulfenite",
+    "item:gtceu:raw_rock_salt",
+    "item:gtceu:realgar_dust",
+    "item:gtceu:impure_realgar_dust",
+    "item:gtceu:crushed_realgar_ore",
+    "item:gtceu:glauconite_sand_dust",
+    "item:gtceu:impure_glauconite_sand_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_glauconite_sand_ore",
+      "amount": 3
+    },
+    "item:gtceu:raw_glauconite_sand",
+    "item:gtceu:magnesite_dust",
+    "item:gtceu:impure_magnesite_dust",
+    "item:gtceu:crushed_magnesite_ore",
+    "item:gtceu:raw_magnesite",
+    "item:gtceu:rich_raw_magnesite",
+    "item:gtceu:alunite_dust",
+    "item:gtceu:impure_alunite_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_alunite_ore",
+      "amount": 3
+    },
+    "item:gtceu:raw_alunite",
+    "item:gtceu:electrotine_dust",
+    "item:gtceu:impure_electrotine_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_electrotine_ore",
+      "amount": 5
+    },
+    "item:gtceu:raw_electrotine",
+    "item:gtceu:impure_saltpeter_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_saltpeter_ore",
+      "amount": 2
+    },
+    "item:gtceu:raw_saltpeter",
+    {
+      "type": "item",
+      "id": "gtceu:asbestos_dust",
+      "amount": 3
+    },
+    "item:gtceu:raw_asbestos",
+    "item:gtceu:uvarovite_dust",
+    "item:gtceu:garnet_sand_dust",
+    "item:gtceu:impure_garnet_sand_dust",
+    "item:gtceu:crushed_garnet_sand_ore",
+    "item:gtceu:raw_garnet_sand",
+    "item:gtceu:quartzite_gem",
+    "item:gtceu:quartzite_dust",
+    "item:gtceu:impure_quartzite_dust",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_quartzite_ore",
+      "amount": 2
+    },
+    "item:gtceu:raw_quartzite",
+    "item:gtceu:bornite_dust",
+    "item:gtceu:impure_bornite_dust",
+    "item:gtceu:crushed_bornite_ore",
+    "item:gtceu:raw_bornite",
+    "item:gtceu:chalcocite_dust",
+    "item:gtceu:impure_chalcocite_dust",
+    "item:gtceu:crushed_chalcocite_ore",
+    "item:gtceu:raw_chalcocite",
+    "item:gtceu:basaltic_mineral_sand_dust",
+    "item:gtceu:impure_basaltic_mineral_sand_dust",
+    "item:gtceu:crushed_basaltic_mineral_sand_ore",
+    "item:gtceu:raw_basaltic_mineral_sand",
+    "item:gtceu:stibnite_dust",
+    "item:gtceu:impure_stibnite_dust",
+    "item:gtceu:raw_stibnite",
+    "item:gtceu:raw_chalcopyrite",
+    "item:create:metal_girder",
+    "item:create:metal_bracket",
+    {
+      "type": "item",
+      "id": "minecraft:raw_gold",
+      "amount": 56
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_chromite",
+      "amount": 40
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_emerald",
+      "amount": 24
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_pentlandite",
+      "amount": 24
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_calcite",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_yellow_limonite",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_malachite",
+      "amount": 24
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_beryllium",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_lazurite",
+      "amount": 24
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_lapis",
+      "amount": 24
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_granitic_mineral_sand",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_sodalite",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_ruby",
+      "amount": 32
+    },
+    "item:gtceu:iv_large_miner",
+    "item:gtceu:terminal",
+    "item:gtceu:luv_large_miner",
+    "item:gtceu:red_granite_certus_quartz_ore"
+  ],
+  "craft_history": [
+    "gtceu:shaped/steam_extractor_steel",
+    "gtceu:shaped/steel_bricks_hull",
+    "tfc:crafting/bricks",
+    "tfc:crafting/wood/stick_from_twigs",
+    "gtceu:shaped/shape_mold_ingot",
+    "gtceu:shaped/shape_empty",
+    "gtceu:shaped/glass_pane",
+    "tfc:crafting/wood/maple_lumber_log",
+    "tfc:crafting/stick_bundle",
+    "gtceu:shaped/small_dust_assembling_tetrahedrite",
+    "gtceu:shaped/tiny_dust_assembling_tetrahedrite",
+    "tfc:crafting/firestarter",
+    "gtceu:shapeless/crushed_ore_to_dust_sulfur",
+    "tfc:crafting/stick_from_bunch",
+    "tfg:create/shaped/fluid_pipe",
+    "gtceu:shaped/screwdriver_steel",
+    "tfc:crafting/wood/maple_planks",
+    "create:crafting/kinetics/mechanical_pump",
+    "tfg:create/shapeless/cogwheel",
+    "create:crafting/kinetics/vertical_gearboxfrom_conversion",
+    "tfg:create/shaped/large_cogwheel",
+    "create:crafting/kinetics/gearbox",
+    "tfg:create/shaped/shaft",
+    "gtceu:shapeless/crushed_ore_to_dust_copper",
+    "gtceu:shaped/steam_furnace_steel",
+    "gtceu:shaped/steam_alloy_smelter_steel",
+    "gtceu:shaped/steam_boiler_lava_steel",
+    "tfc:crafting/add_glass_to_blowpipe",
+    "tfc:crafting/add_glass_to_ceramic_blowpipe",
+    "tfc:crafting/rock/conglomerate_loose_rocks_to_cobble",
+    "tfc:crafting/white_kaolin_clay",
+    "tfc:crafting/gem_saw",
+    "gtceu:shapeless/crushed_ore_to_dust_diamond",
+    "gtceu:shapeless/crushed_ore_to_dust_tetrahedrite",
+    "gtceu:shapeless/crushed_ore_to_dust_sphalerite",
+    "tfc:crafting/silica_glass_batch",
+    "tfc:crafting/metal/anvil/steel",
+    "gtceu:shaped/bronze_bricks_hull",
+    "gtceu:shapeless/crushed_ore_to_dust_hematite",
+    "tfc:crafting/flux",
+    "tfc:crafting/rock/dolomite_cobble_to_loose_rocks",
+    "tfc:crafting/blast_furnace",
+    "tfc:crafting/fire_clay",
+    "gtceu:shapeless/crushed_ore_to_dust_graphite",
+    "tfg:create_additions/shaped/rolling_mill",
+    "gtceu:shaped/gear_wrought_iron",
+    "gtceu:shaped/ring_wrought_iron",
+    "tfc:crafting/wood/maple_fence_gate",
+    "tfc:crafting/wood/maple_fence",
+    "tfc:crafting/wood/maple_loom",
+    "gtceu:shaped/hoe_stone",
+    "tfc:crafting/rock/gabbro_bricks",
+    "tfc:crafting/rock/gabbro_brick",
+    "tfc:crafting/rock/gabbro_cobble_to_loose_rocks",
+    "createdeco:dusk_brick_slab",
+    "createdeco:crafting/dusk_bricks",
+    "tfc:crafting/rock/quartzite_bricks",
+    "tfc:crafting/rock/quartzite_brick",
+    "tfc:crafting/rock/quartzite_cobble_to_loose_rocks",
+    "tfc:crafting/wood/maple_support",
+    "create:crafting/tfc_anvil_mechanical_press",
+    "tfc:crafting/metal/anvil/wrought_iron",
+    "tfg:create/shapeless/depot",
+    "gtceu:crafting/simple_treated_wood_plate",
+    "gtceu:shaped/coke_oven",
+    "gtceu:shaped/file_wrought_iron",
+    "gtceu:shaped/compressed_coke_clay",
+    "tfc:crafting/bloomery",
+    "tfc:crafting/rice_cutting",
+    "tfc:crafting/barley_cutting",
+    "gtceu:shapeless/crushed_ore_to_dust_cassiterite",
+    "gtceu:shapeless/crushed_ore_to_dust_tin",
+    "tfc:crafting/rock/granite_loose_rocks_to_cobble",
+    "tfc:crafting/stick_from_bundle",
+    "tfc:crafting/fire_bricks",
+    "tfc:crafting/rock/gabbro_loose_rocks_to_cobble",
+    "tfc:crafting/rock/basalt_loose_rocks_to_cobble",
+    "tfc:crafting/rock/rhyolite_loose_rocks_to_cobble",
+    "tfc:crafting/handstone",
+    "tfc:crafting/quern",
+    "tfc:crafting/rock/quartzite_loose_rocks_to_cobble",
+    "tfc:crafting/rock/andesite_loose_rocks_to_cobble",
+    "craftingstation:tfcbench_to_station",
+    "tfc:crafting/wood/maple_workbench",
+    "gtceu:shaped/pickaxe_bronze",
+    "gtceu:shaped/saw_bronze",
+    "tfc:crafting/metal/propick/bronze",
+    "tfc:crafting/metal/chisel/bronze",
+    "tfcambiental:crafting/straw_hat",
+    "gtceu:shaped/shovel_stone",
+    "tfc:crafting/wood/chestnut_support",
+    "gtceu:shaped/hammer_stone",
+    "tfc:crafting/wood/chestnut_workbench",
+    "tfc:crafting/wood/chestnut_planks",
+    "tfc:crafting/wood/chestnut_lumber_log",
+    "tfchotornot:crafting/tongs/wood",
+    "tfc:crafting/stone/javelin_sedimentary",
+    "gtceu:shaped/axe_stone",
+    "gtceu:shaped/knife_stone"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

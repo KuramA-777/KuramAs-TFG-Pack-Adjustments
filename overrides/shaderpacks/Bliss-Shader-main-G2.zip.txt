@@ -1,0 +1,13 @@
+#Tue Jul 16 09:52:17 CEST 2024
+BLOOMY_FOG=1.0
+Exposure_Speed=1.75
+FOG_START_HEIGHT=80
+Haze_amount=0.6
+LIT_PARTICLE_BRIGHTNESS=5.0
+MOTION_AMOUNT=0.0
+Night_Uniform_Fog=0.0
+RESOURCEPACK_SKY=2
+RainFog_amount=1
+SHARPENING=0.0
+Sky_reflection=true
+TAA=false
